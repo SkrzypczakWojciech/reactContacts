@@ -1,0 +1,19 @@
+body {
+	text-align:center;
+	background-color: #a0b4d3;
+	margin:10px;
+	color:white;
+}
+
+input {
+	background-color: #aaafb7;
+	padding:5px;
+}
+p {
+	margin: 0 auto;
+	width:200px;
+	border :4px solid #aaafb7;
+}
+img {
+	border-radius: 50%;
+}
