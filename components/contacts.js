@@ -6,14 +6,14 @@ var Contacts = React.createClass({
     var contacts = this.props.items.map(function(contact) {
         return (
           <Contact>
-            {item: contact, key: contact.id}
+            {item: contact key: contact.id}
           </Contact>
           )
     });
         return (
           <div>
             <ul className='contactsList'>
-              contacts
+              <contacts />
             </ul>
           </div>
     );
