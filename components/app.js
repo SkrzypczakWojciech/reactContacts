@@ -30,7 +30,7 @@ var App = React.createClass({
     return (
       <div className= 'app'>
         <ContactForm> 
-          {contact: contactForm}
+          contact = {contactForm}
         </ContactForm>
         <Contacts> 
           {items: contacts}
